@@ -15,4 +15,4 @@ This project Program to Find the Maximum Element in a Matrix
    `java matrix`
 
 ## Expected Output (screenshots)
-![image](https://github.com/user-attachments/assets/db110d9a-94f8-40b9-af2d-d34f74552bcd)![image](https://github.com/user-attachments/assets/68fe5ae7-7fa9-4190-81f1-f10eb493f381)
+(https://github.com/user-attachments/assets/68fe5ae7-7fa9-4190-81f1-f10eb493f381)
